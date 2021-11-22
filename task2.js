@@ -14,7 +14,7 @@
 const name = [
         'Abigail', 'Alexandra','Alison',
         'Amanda', 'Angela', 'Bella', 'Carol', 'Caroline', 'Carolyn',
-        'Deirdre', 'Dinda', 'Elizabeth', 'Ella', 'Faith', 'Olivia', 'Penelope'
+        'Deirdre', 'Dianda', 'Elizabeth', 'Ella', 'Faith', 'Olivia', 'Penelope'
 ]
 
 const searchName = (names,put) => {

@@ -40,14 +40,14 @@
 // numbers()
 
 // 6. Splice
-// const fruits = ()=> {
-//     const fruit = ['Avocado','Grape','Longan','Guava','Watermelon']
-//     const subName = fruit.splice(3, 2)
+const fruits = ()=> {
+    const fruit = ['Avocado','Grape','Longan','Guava','Watermelon']
+    const subName = fruit.splice(3, 2)
 
-//     console.log(fruit)    
-//     console.log(subName)
-// }
-// fruits()
+    console.log(fruit)    
+    console.log(subName)
+}
+fruits()
 
 // 7. Reverse
 // const wordResult = ()=> {
